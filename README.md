@@ -1,7 +1,7 @@
 # signalProcessing
 # Discrete Fourier Transform
 
-This Project was completed for signl processing class. 
+This Project was completed for signl processing class. In this project, I was able to remove noise from the audio. The filtered version of the sound can be heard from filterdaudio.wav 
 
 What we did in the project?
 1. Used the audioread() MATLAB command to provide the sampling frequency Fs of the file and read the contents of ‘noisyaudio.wav’ into an array.
